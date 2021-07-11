@@ -15,14 +15,13 @@ import pyrebase
 
 
 config = {
-  "apiKey": "AIzaSyB1407Jf6sosGEFnO-1h6rCKwWpzbW1REQ",
-  "authDomain": "farmgrid-67b05.firebaseapp.com",
-  "databaseURL": "https://farmgrid-67b05-default-rtdb.firebaseio.com",
-  "projectId": "farmgrid-67b05",
-  "storageBucket": "farmgrid-67b05.appspot.com",
-  "messagingSenderId": "602553499578",
-  "appId": "1:602553499578:web:644ee05fa1be2fddb5e783",
-  "measurementId": "G-FF6T2X548B"
+  "apiKey": "AIzaSyDZExqWTfvMUHC5P4Ywt77VZwnLt39QxgE",
+  "authDomain": "agro2021v3.firebaseapp.com",
+  "databaseURL": "https://agro2021v3-default-rtdb.firebaseio.com",
+  "projectId": "agro2021v3",
+  "storageBucket": "agro2021v3.appspot.com",
+  "messagingSenderId": "782060678669",
+  "appId" : "1:782060678669:web:de8382e2e6325190b8ef44"
 }
 
 
