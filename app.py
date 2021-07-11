@@ -48,7 +48,7 @@ db = firebase.database()
 auth=firebase.auth()
 
 try:
-    login = auth.sign_in_with_email_and_password("fagrotech2021pes@gmail.com", "amruthasomayaji2021")
+    login = auth.sign_in_with_email_and_password("agrotech2021pes@gmail.com", "amruthasomayaji2021")
 except:
     print("hello")
 
